@@ -1,6 +1,5 @@
-# music-cli
-
-> An electron-vue project(之前[vue-music](https://github.com/gitHber/vue-music)和electron的结合实现客户端)
+# 音乐播放器客户端
+> 之前[vue-music](https://github.com/gitHber/vue-music)和electron的结合实现客户端
 
 #### Build Setup
 
